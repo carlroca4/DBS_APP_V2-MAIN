@@ -46,7 +46,7 @@ if (isset($_POST['Login'])) {
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Hello Admin</a>
     <div class="d-flex ms-auto">
-      <a href="logout.php" class="btn btn-outline-light">Logout</a>
+
     </div>
   </div>
 </nav>
